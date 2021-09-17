@@ -1,0 +1,96 @@
+.logo{
+    height: 60px;
+    height: 60px;
+}
+#Navber{
+    width: 100%;
+    background: #F0FFF0;
+    
+}
+.nav li a {
+    color: black;
+    font-weight: 500;
+    margin: 5px 5px;
+}
+
+.Click{
+    background-color:#21B573;
+    color: #F0FFF0;
+    border-radius: 15px;  
+}
+.Click:hover{
+    background-color:#109157 ;
+}
+.photo{
+ height: 100%;
+ width: 100%;
+}
+.parag{
+    color: red;
+}
+.header{
+    width: 100%;
+    background: #F0FFF0;
+    padding-top: 30px;
+}
+.any{
+    color:#21B573 ;
+}
+p{
+    color: gray;
+}
+.col-md-3 img{
+    height: 65px;
+    width: 55px;
+}
+.container{
+    margin-bottom: 100px;
+}
+.card{
+    border: 0%;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 15px;
+    height: 200px;
+    padding-top: 20px;
+    
+}
+.bg-color{
+    background-color:#F0FFF0 ;
+}
+.text{
+    text-align: center;
+    padding-bottom: 50px;
+    font-family: Poppins;
+}
+.card-2{
+    box-shadow: 5px 5px 10px lightgray;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+
+h6{
+    margin-top:15px;
+}
+.tast img{
+    height: 120px;
+    width: 120px;
+}
+#footer{
+    height: 369px;
+width: 100%;
+left: 0px;
+top: 2013px;
+border-radius: 0px;
+background-color: #282531;;
+}
+.text-2{
+    color: lightgray;
+    padding-top: 60px;
+}
+.copy{
+    text-align: center;
+}
+.text-3{
+    color: lightgray;
+}
